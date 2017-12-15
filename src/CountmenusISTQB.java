@@ -21,5 +21,6 @@ static
 	    System.out.println();
 	    System.out.println(elements.size());
 	    System.out.println();
+	    driver.get("http://testyantra.com");
 	}
 }
