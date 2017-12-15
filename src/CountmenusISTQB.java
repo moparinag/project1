@@ -20,5 +20,6 @@ static
 	    System.out.println(elements.size());
 	    System.out.println();
 	    System.out.println(elements.size());
+	    System.out.println();
 	}
 }
