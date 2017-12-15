@@ -19,5 +19,6 @@ static
 		List<WebElement> elements = driver.findElements(By.xpath("//a[@class='dropdown-toggle']"));
 	    System.out.println(elements.size());
 	    System.out.println();
+	    System.out.println(elements.size());
 	}
 }
